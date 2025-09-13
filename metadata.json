@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Canvas",
+  "description": "An application that generates an image from a text prompt using the Gemini API. The initial prompt is 'Person standing by sunrise, deep in thought.'",
+  "requestFramePermissions": []
+}
